@@ -1,4 +1,4 @@
-# COGS118FinalProject
+# COGS181FinalProject
 
 This is a repository for Winter 2017 COGS 181 Final Project of Xinwei Wang and Jue Wang.
 
