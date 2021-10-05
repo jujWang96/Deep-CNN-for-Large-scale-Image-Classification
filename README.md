@@ -1,4 +1,4 @@
-# COGS181FinalProject
+# Deep CNN for Large-scale Image Classification
 
 This is a repository for Winter 2017 COGS 181 Final Project of Xinwei Wang and Jue Wang.
 
